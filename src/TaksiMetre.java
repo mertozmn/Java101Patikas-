@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Taksimetre {
+public class TaksiMetre {
     public static void main(String[] args) {
         /*
         Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
