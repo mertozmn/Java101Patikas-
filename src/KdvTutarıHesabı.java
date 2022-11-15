@@ -15,9 +15,6 @@ public class KdvTutarıHesabı {
         kdv_tutar= (0<tutar && 1000>=tutar) ?tutar*kdv_oran1 :tutar*kdv_oran2;
         kdvli_fiyat=tutar+kdv_tutar;
 
-
-
-
         System.out.println("KDV Tutarı:"+kdv_tutar);
         System.out.println("KDV'li Fiyat:"+kdvli_fiyat);
         System.out.println("KDV'siz Fiyat:"+tutar);
