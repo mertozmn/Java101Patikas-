@@ -17,7 +17,7 @@ public class HesapMakinesiSC {
         switch (select) {
             case 1:System.out.println("Toplama:"+(n1+n2));
             break;
-            case 2:System.out.println("Çıkartma:"+(n1-n2));
+            case 2:System.out.println("Çıkarma:"+(n1-n2));
             break;
             case 3:System.out.println("Çarpma:"+(n1*n2));
             break;
